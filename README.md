@@ -7,13 +7,12 @@ The project is a website created using HTML, CSS, and JavaScript. The website is
 The project was completed under the supervision of Abhiyantriki Technology in Bhopal, Madhya Pradesh. 
 
 ### Team Members
-
+- Developer : [Pushpraj Paroha]
+- Github Url: https://github.com/prp0076
 - Designer: Sachin Pandey 
 - Company: [Abhiyantriki Technology](https://www.abhiyantrikitech.com) , Bhopal MP
 - QA Tester: [Angesh Mishra](https://github.com/angesh27)
 - GitHub URL: https://github.com/angesh27
-- Developer : [Pushpraj Paroha](https://github.com/prp0076)
-- Github Url: https://github.com/prp0076
 - With our more team members of Abhiyantriki Technology and NSE Academy
 - Company URL: https://www.abhiyantrikitech.com
 - Github generated page url: https://prp0076.github.io/NYIF-Capital_Market_Professional/
