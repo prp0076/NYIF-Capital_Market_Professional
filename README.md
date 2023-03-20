@@ -16,7 +16,7 @@ The project was completed under the supervision of Abhiyantriki Technology in Bh
 - Github Url: https://github.com/prp0076
 - With our more team members of Abhiyantriki Technology and NSE Academy
 - Company URL: https://www.abhiyantrikitech.com
-- Github generated page url: https://sachin12031999.github.io/NYIF-Capital_Market_Professional/
+- Github generated page url: https://prp0076.github.io/NYIF-Capital_Market_Professional/
 - Live project url : https://www.ncfm-india.com/ORE
 
 ### Abhiyantriki Technology
@@ -52,7 +52,7 @@ Overall, this project exemplifies the commitment of Abhiyantriki Technology to p
 ## Author
 
 - Pushpraj Paroha 
-- Another github: http://github.com/prp0076/
+- Github: http://github.com/prp0076/
 
 ## Contributing
 
