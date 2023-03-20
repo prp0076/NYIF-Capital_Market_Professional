@@ -51,8 +51,8 @@ Overall, this project exemplifies the commitment of Abhiyantriki Technology to p
 
 ## Author
 
-- Sachin 
-- Another github: https://github.com/aytsachin
+- Pushpraj Paroha 
+- Another github: http://github.com/prp0076/
 
 ## Contributing
 
