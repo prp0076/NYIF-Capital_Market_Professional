@@ -8,7 +8,7 @@ The project was completed under the supervision of Abhiyantriki Technology in Bh
 
 ### Team Members
 
-- Developer: Sachin Pandey 
+- Designer: Sachin Pandey 
 - Company: [Abhiyantriki Technology](https://www.abhiyantrikitech.com) , Bhopal MP
 - QA Tester: [Angesh Mishra](https://github.com/angesh27)
 - GitHub URL: https://github.com/angesh27
