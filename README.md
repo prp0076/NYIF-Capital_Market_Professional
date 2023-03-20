@@ -7,7 +7,7 @@ The project is a website created using HTML, CSS, and JavaScript. The website is
 The project was completed under the supervision of Abhiyantriki Technology in Bhopal, Madhya Pradesh. 
 
 ### Team Members
-- Developer : [Pushpraj Paroha]
+- Developer : Pushpraj Paroha
 - Github Url: https://github.com/prp0076
 - Designer: Sachin Pandey 
 - Company: [Abhiyantriki Technology](https://www.abhiyantrikitech.com) , Bhopal MP
